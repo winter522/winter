@@ -5,6 +5,6 @@ public class Hello {
 		int n=0;
 	}
 	public void func(){
-		System.out.println("aaa");
+		System.out.println("bbb");
 	}
 }
